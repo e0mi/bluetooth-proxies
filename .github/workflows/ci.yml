@@ -10,8 +10,8 @@ jobs:
     strategy:
       matrix:
         file:
-          - esp32-generic.yaml
           - gl-s10.yaml
+          - gl-s10_v2.yaml
     steps:
       - name: Checkout source code
         uses: actions/checkout@v3

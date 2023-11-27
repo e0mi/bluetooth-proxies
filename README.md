@@ -1,3 +1,3 @@
-# ESPHome Bluetooth Proxies
+# Gl.Inet GL-S10 Bluetooth Proxy Web Flasher
 
-This repo hosts known, tested devices that can serve as Bluetooth proxies for Home Assistant.
+This repo hosts builds to flash GL-S10 Bluetooth Gateway

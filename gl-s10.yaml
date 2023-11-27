@@ -7,7 +7,7 @@ esphome:
   name: ${name}
   name_add_mac_suffix: true
   project:
-    name: esphome.bluetooth-proxy
+    name: gl-s10.bluetooth-proxy
     version: "1.1"
 # turn on Power LED when esphome boots
   on_boot:

@@ -16,12 +16,4 @@ jobs:
       clean: false
       esphome_version: stable
 
-  publish-gl-s10_v2:
-    name: Publish GL.iNet GL-S10 V2
-    uses: esphome/workflows/.github/workflows/publish.yml@main
-    with:
-      files: gl-s10_v2.yaml
-      name: GL.iNet GL-S10 v2
-      manifest_filename: gl-s10_v2-manifest.json
-      clean: false
-      esphome_version: stable
+
